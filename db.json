@@ -11,12 +11,15 @@
       "email": "hawdaex@gmail.com",
       "password": "uhdvcu",
       "id": 2
-    },
+    }
+  ],
+  "transaction":[
     {
-      "name": "as",
-      "email": "hawdaex@gmail.com",
-      "password": "uhdvcu",
-      "id": 3
+      "id":1,
+      "email":"alok@mail.com",
+      "type":"income",
+      "category":"salary",
+      "Amount":"15000"
     }
   ]
 }
