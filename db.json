@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alok",
+      "email": "alok@mail.com",
+      "password": "alok@123"
+    },
+    {
+      "name": "as",
+      "email": "hawdaex@gmail.com",
+      "password": "uhdvcu",
+      "id": 2
+    },
+    {
+      "name": "as",
+      "email": "hawdaex@gmail.com",
+      "password": "uhdvcu",
+      "id": 3
+    }
+  ]
+}
